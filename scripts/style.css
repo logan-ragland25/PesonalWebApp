@@ -1,5 +1,6 @@
 body {
     /*background-image: url("../images/bg3.jpg");*/
+    background-color: #202424;
 }
 
 .flex-container1 {
@@ -16,4 +17,16 @@ body {
     padding: 10px;
     border: 1px solid #CCCCCC;
     margin: 5px;
+}
+
+#title {
+    text-align: center;
+    font-size: 55px;
+    color:red;
+    background-color: #202424;
+    border: 1px solid maroon;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    padding: 5px;
 }
