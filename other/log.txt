@@ -1,0 +1,2 @@
+11-19-22
+    Added navbar, changed style sheet, added links, added header, added pages
