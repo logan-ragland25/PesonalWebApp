@@ -1,2 +1,5 @@
 11-19-22
     Added navbar, changed style sheet, added links, added header, added pages
+
+11-20-22
+    Add more to style sheet and added to index.html

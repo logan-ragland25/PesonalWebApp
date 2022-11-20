@@ -4,7 +4,7 @@ body {
 }
 
 .flex-container1 {
-     display: block;
+    display: block;
 }
 
 .flex-container2 {
@@ -22,7 +22,7 @@ body {
 #title {
     text-align: center;
     font-size: 55px;
-    color:red;
+    color: red;
     background-color: #202424;
     width: 20%;
     margin: auto;
@@ -79,14 +79,14 @@ body {
 
 #index-link-actual {
     color: red
- }
+}
 
 #projects-link-actual {
-   color: red
+    color: red
 }
 
 #interests-link-actual {
-   color: red
+    color: red
 }
 
 .name {
@@ -118,12 +118,39 @@ body {
 
 #name-header {
     padding: 1px;
+    margin: 5px;
+    display: flexbox;
+    flex-wrap: wrap;
 }
 
 #interests-header {
-  padding: 1px;
+    padding: 1px;
+    display: flexbox;
+    flex-direction: column;
+    flex-wrap: wrap;
 }
 
 #project-header {
     padding: 1px;
+    display: flexbox;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+#basicInfo {
+    vertical-align: middle;
+    margin: auto;
+    color: rgb(205, 56, 56);
+}
+
+#orangeLogo {
+    width: 25%;
+    float: right;
+    display: flexbox;
+    flex-wrap: wrap;
+}
+
+#lineBreak {
+    border-width: 1px;
+    border: #202424;
 }
