@@ -6,3 +6,6 @@
 
 11-21-22
     Added more links to and finished index.html and projects.html, updated style sheet
+
+11-27-22
+    Added to interests.html. Finished project

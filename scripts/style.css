@@ -164,6 +164,13 @@ body {
     padding: 10px;
 }
 
+#warlockLogo {
+    width: 40%;
+    float: right;
+    display: flexbox;
+    flex-wrap: wrap;
+}
+
 #lineBreak {
     border-width: 1px;
     border: #202424;
